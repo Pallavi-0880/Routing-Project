@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(232, 99, 99);
+}
+video{
+    width: 600px;
+}
+h1{
+    font-size: 50px;
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.box{
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+   
+}
+.headings{
+    color: rgb(20, 21, 21);
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: antiquewhite;
+    width: 200px;
+    text-align: left;
+    text-decoration-line: none;
+}
